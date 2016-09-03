@@ -1,5 +1,5 @@
 ## Digital Resume
-This is my digital resume. It is currently available at 
+This is my digital resume. It is currently available at https://joebayles.github.io/me/
 
 
 ## HTML Credit
